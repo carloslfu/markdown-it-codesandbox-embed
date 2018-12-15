@@ -1,0 +1,32 @@
+{
+  "name": "markdown-it-codesandbox-embed",
+  "version": "0.1.0",
+  "description": "markdown-it plugin for creating sandboxes on the fly for your code examples.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/carloslfu/markdown-it-codesandbox-embed.git"
+  },
+  "keywords": [
+    "codesandbox",
+    "markdown-it",
+    "plugin"
+  ],
+  "files": [
+    "index.js",
+    "package.json"
+  ],
+  "author": "@carloslfu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carloslfu/markdown-it-codesandbox-embed/issues"
+  },
+  "homepage": "https://github.com/carloslfu/markdown-it-codesandbox-embed#readme",
+  "dependencies": {
+    "glob": "^7.1.3",
+    "sync-request": "^6.0.0"
+  }
+}
